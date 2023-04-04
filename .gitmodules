@@ -1,0 +1,9 @@
+[submodule "Day-1"]
+	path = Day-1
+	url = https://github.com/thebuya/Day-1.git
+[submodule "Day-2"]
+	path = Day-2
+	url = https://github.com/thebuya/Day-2.git
+[submodule "Practical-1"]
+	path = Practical-1
+	url = https://github.com/thebuya/Practical-1.git
